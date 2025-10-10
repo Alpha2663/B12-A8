@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "NoteHub",
+    "companyName": "Notion Labs Inc.",
+    "category": "Productivity",
+    "description": "All-in-one workspace for notes, tasks, wikis, and databases. Notion combines the flexibility of documents with the power of databases to help teams collaborate and individuals stay organized.",
+    "size": 125,
+    "reviews": 850000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 42500 },
+      { "name": "2 star", "count": 25500 },
+      { "name": "3 star", "count": 85000 },
+      { "name": "4 star", "count": 255000 },
+      { "name": "5 star", "count": 442000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1477346611705-65d1883cee1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "FitPulse",
+    "companyName": "Strava Inc.",
+    "category": "Health & Fitness",
+    "description": "Track running, cycling, and swimming activities with GPS. Join millions of athletes using Strava to record workouts, analyze performance, and connect with a global fitness community.",
+    "size": 156,
+    "reviews": 1200000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 180000 },
+      { "name": "4 star", "count": 360000 },
+      { "name": "5 star", "count": 480000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1516131206008-dd041a9764fd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "MindPad",
+    "companyName": "Evernote Corporation",
+    "category": "Productivity",
+    "description": "Capture ideas, organize notes, and manage projects across devices. Evernote helps you remember everything with powerful search, web clipping, and document scanning features.",
+    "size": 142,
+    "reviews": 920000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 92000 },
+      { "name": "2 star", "count": 55200 },
+      { "name": "3 star", "count": 138000 },
+      { "name": "4 star", "count": 276000 },
+      { "name": "5 star", "count": 358800 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "BrainBot",
+    "companyName": "OpenAI",
+    "category": "Productivity",
+    "description": "Access powerful AI assistance for writing, learning, brainstorming, and problem-solving. ChatGPT provides instant answers and creative solutions to help with work and personal tasks.",
+    "size": 89,
+    "reviews": 2100000,
+    "ratingAvg": 4.6,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 210000 },
+      { "name": "2 star", "count": 84000 },
+      { "name": "3 star", "count": 252000 },
+      { "name": "4 star", "count": 630000 },
+      { "name": "5 star", "count": 924000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "../src/assets/demo-app (2).webp",
+    "title": "SoundWave",
+    "companyName": "Spotify AB",
+    "category": "Music & Audio",
+    "description": "Stream millions of songs and podcasts for free. Discover new music, create playlists, and enjoy personalized recommendations based on your listening habits.",
+    "size": 98,
+    "reviews": 8500000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 850000 },
+      { "name": "2 star", "count": 425000 },
+      { "name": "3 star", "count": 1275000 },
+      { "name": "4 star", "count": 2550000 },
+      { "name": "5 star", "count": 3400000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "TeamLine",
+    "companyName": "Slack Technologies",
+    "category": "Business",
+    "description": "Transform team communication with organized channels, direct messaging, and seamless integrations. Slack brings all your work conversations and tools together in one place.",
+    "size": 134,
+    "reviews": 1800000,
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 270000 },
+      { "name": "4 star", "count": 540000 },
+      { "name": "5 star", "count": 720000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2106&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "DevEdit",
+    "companyName": "Microsoft Corporation",
+    "category": "Developer Tools",
+    "description": "Lightweight but powerful source code editor with IntelliSense, debugging, and Git integration. VS Code supports hundreds of languages and extensions for modern development.",
+    "size": 312,
+    "reviews": 450000,
+    "ratingAvg": 4.8,
+    "downloads": 35000000,
+    "ratings": [
+      { "name": "1 star", "count": 22500 },
+      { "name": "2 star", "count": 13500 },
+      { "name": "3 star", "count": 45000 },
+      { "name": "4 star", "count": 135000 },
+      { "name": "5 star", "count": 234000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "../src/assets/demo-app (1).webp",
+    "title": "Budgetly",
+    "companyName": "Intuit Inc.",
+    "category": "Finance",
+    "description": "Free budget tracker and financial planner. Mint helps you manage money, track spending, create budgets, and monitor credit scores all in one secure app.",
+    "size": 78,
+    "reviews": 1600000,
+    "ratingAvg": 4.3,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 224000 },
+      { "name": "2 star", "count": 112000 },
+      { "name": "3 star", "count": 288000 },
+      { "name": "4 star", "count": 496000 },
+      { "name": "5 star", "count": 480000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Travello",
+    "companyName": "Airbnb Inc.",
+    "category": "Travel",
+    "description": "Book unique homes, apartments, and experiences worldwide. Airbnb connects travelers with local hosts offering authentic stays and adventures in over 220 countries.",
+    "size": 187,
+    "reviews": 3200000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 320000 },
+      { "name": "2 star", "count": 128000 },
+      { "name": "3 star", "count": 480000 },
+      { "name": "4 star", "count": 960000 },
+      { "name": "5 star", "count": 1312000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1607434472257-d9f8e57a643d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "PixelPop",
+    "companyName": "VSCO",
+    "category": "Photography",
+    "description": "Book unique homes, apartments, and experiences worldwide. Airbnb connects travelers with local hosts offering authentic stays and adventures in over 220 countries.",
+    "size": 187,
+    "reviews": 3200000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 320000 },
+      { "name": "2 star", "count": 128000 },
+      { "name": "3 star", "count": 480000 },
+      { "name": "4 star", "count": 960000 },
+      { "name": "5 star", "count": 1312000 }
+    ]
+  }
+]
