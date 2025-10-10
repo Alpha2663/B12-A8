@@ -7,7 +7,7 @@ const useFetchApps = () => {
 
   useEffect(() => {
     setTimeout(() => {
-      fetch("/public/appsData.json")
+      fetch("/appsData.json")
         .then((res) => res.json())
         .then((data) => setApps(data))
         .catch((err) => setError(err))
