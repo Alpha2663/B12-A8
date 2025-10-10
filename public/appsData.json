@@ -77,7 +77,7 @@
   },
   {
     "id": 5,
-    "image": "../src/assets/demo-app (2).webp",
+    "image": "/demo-app (2).webp",
     "title": "SoundWave",
     "companyName": "Spotify AB",
     "category": "Music & Audio",
@@ -134,7 +134,7 @@
   },
   {
     "id": 8,
-    "image": "../src/assets/demo-app (1).webp",
+    "image": "/demo-app (1).webp",
     "title": "Budgetly",
     "companyName": "Intuit Inc.",
     "category": "Finance",
