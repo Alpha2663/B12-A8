@@ -23,12 +23,12 @@ const Banner = () => {
                    <div className='py-5 flex gap-3 justify-center items-center'>
                      <div onClick={handlePlayStore} className='flex border-1 justify-center items-center gap-2 p-2 rounded-lg hover:cursor-pointer'>
                         <img className="h-[48px] bg-cover " src={playstoreImg}></img>
-                        <a href="#" className=" text-black font-semibold">App Store</a>
+                        <a href="#" className=" text-black font-semibold">Play Store</a>
                     </div>
                     <div className='py-5 flex gap-3 justify-center items-center'>
                     <div onClick={handleIosStore} className='flex border-1 justify-center items-center gap-2 p-2 rounded-lg hover:cursor-pointer' >
                         <img className= "h-[48px] bg-cover " src={iostoreImg}></img>
-                         <a href="#" className=" text-black font-semibold">Play Store</a>
+                         <a href="#" className=" text-black font-semibold">App Store</a>
                     </div>
                     </div>
                    </div>
