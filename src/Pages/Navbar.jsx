@@ -7,7 +7,7 @@ const Navbar = () => {
   const links = (
     <>
       <NavLink to="/" className="px-3 font-bold">
-        Home
+        Hom
       </NavLink>
       <NavLink to="/apps" className="px-3 font-bold">
         Apps
